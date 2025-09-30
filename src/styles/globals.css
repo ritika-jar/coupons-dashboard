@@ -24,3 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.ant-input:hover {
+  border-color: #a47dab !important;
+}
+
+.ant-input {
+  border-color: #a47dab !important;
+}

@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f0fa;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 24px !important;
+}
+
+.button {
+  width: 100%;
+  font-weight: 700;
+  background-color: #a47dab;
+}
+
+.ant-input:hover {
+  border-color: #a47dab !important;
+}
+
+.ant-input {
+  border-color: #a47dab !important;
+}

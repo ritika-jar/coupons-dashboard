@@ -1,0 +1,9 @@
+export const ACCESS_TOKEN_KEY = '@jar/accessToken';
+export const REFRESH_TOKEN_KEY = '@jar/refreshToken';
+export const USER_DETAILS_KEY = '@jar/userDetails';
+export const PHONE_NUMBER_KEY = '@jar/phoneNumber';
+export const AUTH_KEY = '@jar/isAuthenticated';
+export const WEBVIEW_KEY = '@jar/isWebVIew';
+export const PARTNER_COMPANY = '@jar/partnerCompany';
+export const PARTNER_PHONE = '@jar/partnerPhone';
+export const PARTNER_URL = '@jar/partnerUrl';
